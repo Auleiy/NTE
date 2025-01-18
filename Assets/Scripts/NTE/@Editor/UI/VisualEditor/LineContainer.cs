@@ -9,7 +9,7 @@ namespace NTE.Editor.UI.VisualEditor
 {
     public class LineContainer : RectBehaviour
     {
-        public List<Line> Lines = new();d
+        public List<Line> Lines = new();
 
         public void UpdateLayout()
         {
