@@ -1,0 +1,14 @@
+S:\NTE\Tools\PermsGenerator\bin\Debug\net8.0\PermsGenerator.exe
+S:\NTE\Tools\PermsGenerator\bin\Debug\net8.0\PermsGenerator.deps.json
+S:\NTE\Tools\PermsGenerator\bin\Debug\net8.0\PermsGenerator.runtimeconfig.json
+S:\NTE\Tools\PermsGenerator\bin\Debug\net8.0\PermsGenerator.dll
+S:\NTE\Tools\PermsGenerator\bin\Debug\net8.0\PermsGenerator.pdb
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\PermsGenerator.GeneratedMSBuildEditorConfig.editorconfig
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\PermsGenerator.AssemblyInfoInputs.cache
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\PermsGenerator.AssemblyInfo.cs
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\PermsGenerator.csproj.CoreCompileInputs.cache
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\PermsGenerator.dll
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\refint\PermsGenerator.dll
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\PermsGenerator.pdb
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\PermsGenerator.genruntimeconfig.cache
+S:\NTE\Tools\PermsGenerator\obj\Debug\net8.0\ref\PermsGenerator.dll

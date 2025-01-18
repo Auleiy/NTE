@@ -1,0 +1,78 @@
+{
+  "say": {
+    "display": "角色说话",
+    "doc": "在游戏对话框内显示设置的角色名与文本，文本由设置进行渐入。在前面添加一个语音指令可以为这个对话添加语音。",
+    "params": [
+      {
+        "display": "角色名",
+        "type": "string",
+        "default": null
+      },
+      {
+        "display": "文本",
+        "type": "string",
+        "default": null
+      }
+    ]
+  },
+  "think": {
+    "display": "内心想",
+    "doc": "在游戏对话框内显示设置的文本，但不显示角色名，文本由设置进行渐入。在前面添加一个语音指令可以为这个对话添加语音。",
+    "params": [
+      {
+        "display": "文本",
+        "type": "string",
+        "default": null
+      }
+    ]
+  },
+  "wait": {
+    "display": "等待",
+    "doc": "在游戏剧情播放中等待一段时间，可选隐藏对话框。",
+    "params": [
+      {
+        "display": "时长",
+        "type": "float",
+        "default": null
+      }
+    ]
+  },
+  "jump": {
+    "display": "跳转到",
+    "doc": "在游戏剧情播放中跳转到特定的行，会立即执行特定行并从那里开始向下播放。",
+    "params": [
+      {
+        "display": "行数",
+        "type": "integer",
+        "default": null
+      }
+    ]
+  },
+  "cg.setCg": {
+    "display": "CG:打开",
+    "doc": "打开一个CG并覆盖背景。可以通过[CG:预设变种]来改变此指令打开的CG的初始变种。",
+    "params": [
+      {
+        "display": "CG ID",
+        "type": "string",
+        "default": ""
+      }
+    ]
+  },
+  "cg.setStartValue": {
+    "display": "CG:预设变种",
+    "doc": "为打开的CG进行预设置变种，每次执行都会向缓冲区添加项，执行[CG:打开]后会清除此缓冲区。",
+    "params": [
+      {
+        "display": "CG层ID",
+        "type": "string",
+        "default": null
+      },
+      {
+        "display": "CG变种ID",
+        "type": "string",
+        "default": "default"
+      }
+    ]
+  }
+}
